@@ -1,5 +1,4 @@
-# Enzyme_Stability
-![](https://drive.google.com/file/d/1zdBbDMW8M9eIytRmoYZxhFwLFHqfrFyX/view?usp=share_link)
+![](enzyme_head.jpg)
 This project was created during Data Science course for intermediate. It contains a regression problem.  
 
 ## Introduction
