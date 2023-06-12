@@ -10,8 +10,12 @@ The aim of this project is to build a predictive model that can accurately predi
 ## The repository contains:
 
 * Enzyme_Stability_Prediction.ipynb -notebook with preprocessing and modeling
+* Enzyme_stability_presentation.pdf - final presentation with introduction, goal, results and conclusions
 * enzyme_head.jpg - readm.me header photo
 * enzyme_stability_dataset.csv - dataset which was used
 
 ## How to Run the Project?
 To open the project, use the git clone command or download the selected files.
+
+## Additional information
+We encourage you to explore the Enzyme_stability_presentation.pdf file included in the repository. It provides a comprehensive overview of the project, including an introduction to the topic, the project's goals, the methodology used for feature extraction, the models employed, and the evaluation metrics obtained. It also presents the results and draws insightful conclusions.
