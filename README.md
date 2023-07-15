@@ -4,6 +4,8 @@ This project was created during Data Science course for intermediate. It contain
 ## Introduction
 In this Data Science project, we aim to predict enzyme stability (tm) using machine learning and deep learning models. Enzyme stability is an important factor in determining the performance and shelf life of industrial enzymes, which are used in a variety of applications including food processing, pharmaceuticals, and biofuels. 
 
+The biggest challenge in the project was extracting information from the amino acid sequences. We used the ESM model to convert the amino acid sequences into vectors. Additionally, using the BioPython library, we extracted physicochemical properties from the amino acid sequences.
+
 ## Goal
 The aim of this project is to build a predictive model that can accurately predict enzyme stability based on their pH and protein sequence.
 
